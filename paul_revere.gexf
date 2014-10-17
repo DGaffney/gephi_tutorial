@@ -1,0 +1,1985 @@
+﻿<gexf xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.1draft http://www.gexf.net/1.1draft/gexf.xsd" version="1.1">
+	<creator>Graph</creator>
+	<description>GEXF</description>
+	<graph mode="static" timeformat="double" defaultedgetype="directed">
+		<attributes class="node" mode="static">
+			<attribute id="type" title="Type" type="String" />
+		</attributes>
+		<attributes class="edge" mode="static">
+			<attribute id="weight" title="Weight" type="double" />
+		</attributes>
+			<node id="John Adams" label="John Adams">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Adams" label="Samuel Adams">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Dr Allen" label="Dr Allen">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Appleton" label="Nathaniel Appleton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Gilbert Ash" label="Gilbert Ash">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Austin" label="Benjamin Austin">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Austin" label="Samuel Austin">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Avery" label="John Avery">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Cyrus Baldwin" label="Cyrus Baldwin">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Ballard" label="John Ballard">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Barber" label="Nathaniel Barber">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Barnard" label="Samuel Barnard">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Barrett" label="Samuel Barrett">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Bass" label="Henry Bass">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Bell" label="William Bell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Increase Blake" label="Increase Blake">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Boit" label="John Boit">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Bolter" label="Thomas Bolter">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Peter Boyer" label="Peter Boyer">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Richard Boynton" label="Richard Boynton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jos Brackett" label="Jos Brackett">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Bradford" label="John Bradford">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="David Bradlee" label="David Bradlee">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Josiah Bradlee" label="Josiah Bradlee">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Bradlee" label="Nathaniel Bradlee">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Bradlee" label="Thomas Bradlee">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="George Bray" label="George Bray">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Breck" label="William Breck">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Bewer" label="James Bewer">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Herman Brimmer" label="Herman Brimmer">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Martin Brimmer" label="Martin Brimmer">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Broomfield" label="Henry Broomfield">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Hugh Brown" label="Hugh Brown">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Enoch Brown" label="Enoch Brown">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Brown" label="John Brown">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Stephen Bruce" label="Stephen Bruce">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Burbeck" label="Edward Burbeck">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Burbeck" label="William Burbeck">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Burt" label="Benjamin Burt">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Burton" label="Benjamin Burton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Cailleteau" label="Edward Cailleteau">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Elisha Callendar" label="Elisha Callendar">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nicholas Campbell" label="Nicholas Campbell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Capt Cazneau" label="Capt Cazneau">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Mr Chadwell" label="Mr Chadwell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Caleb Champney" label="Caleb Champney">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Chase" label="Thomas Chase">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Ezekiel Cheever" label="Ezekiel Cheever">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Seth Chipman" label="Seth Chipman">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Chrysty" label="Thomas Chrysty">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Church" label="Benjamin Church">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Clarke" label="Benjamin Clarke">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Stephen Cleverly" label="Stephen Cleverly">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Cochran" label="John Cochran">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Gilbert Colesworthy" label="Gilbert Colesworthy">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Gershom Collier" label="Gershom Collier">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Ezra Collins" label="Ezra Collins">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Adam Collson" label="Adam Collson">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="JamesFoster Condy" label="JamesFoster Condy">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Cooper" label="Samuel Cooper">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Cooper" label="William Cooper">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Crafts" label="Thomas Crafts">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Crane" label="John Crane">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Caleb Davis" label="Caleb Davis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Davis" label="Edward Davis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Robert Davis" label="Robert Davis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Davis" label="William Davis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Dawes" label="Thomas Dawes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Dennie" label="William Dennie">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Moses Deshon" label="Moses Deshon">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Dexter" label="Samuel Dexter">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Dolbear" label="Edward Dolbear">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Peter Doyle" label="Peter Doyle">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Eaton" label="Joseph Eaton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Eayres" label="Joseph Eayres">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Unknown Eckley" label="Unknown Eckley">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Edes" label="Benjamin Edes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Emmes" label="Samuel Emmes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Etheridge" label="William Etheridge">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Fenno" label="Samuel Fenno">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Ambrose Ferrell" label="Ambrose Ferrell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Field" label="Joseph Field">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Josiah Flagg" label="Josiah Flagg">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Fleet" label="Thomas Fleet">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Bos Foster" label="Bos Foster">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Foster" label="Samuel Foster">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Frothingham" label="Nathaniel Frothingham">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Gammell" label="John Gammell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Moses Gill" label="Moses Gill">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Gore" label="Samuel Gore">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Gould" label="William Gould">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Graham" label="James Graham">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Moses Grant" label="Moses Grant">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Wait Gray" label="Wait Gray">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Greene" label="Nathaniel Greene">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Greenleaf" label="Joseph Greenleaf">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Greenleaf" label="William Greenleaf">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Newn Greenough" label="Newn Greenough">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Ham" label="William Ham">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Hammond" label="Samuel Hammond">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Eben Hancock" label="Eben Hancock">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Hancock" label="John Hancock">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Hendley" label="William Hendley">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="George Hewes" label="George Hewes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Hickling" label="William Hickling">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Hicks" label="John Hicks">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Alexander Hill" label="Alexander Hill">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Hitchborn" label="Nathaniel Hitchborn">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Hitchborn" label="Thomas Hitchborn">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Hobbs" label="Samuel Hobbs">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Hoffins" label="John Hoffins">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Holmes" label="Nathaniel Holmes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Hooton" label="John Hooton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Caleb Hopkins" label="Caleb Hopkins">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Hoskins" label="William Hoskins">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Howard" label="Samuel Howard">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Howe" label="Edward Howe">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jonathan Hunnewell" label="Jonathan Hunnewell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Richard Hunnewell" label="Richard Hunnewell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Hunstable" label="Thomas Hunstable">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Abraham Hunt" label="Abraham Hunt">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Daniel Ingersoll" label="Daniel Ingersoll">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Alexander Inglish" label="Alexander Inglish">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Pierce Isaac" label="Pierce Isaac">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Ivers" label="James Ivers">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Jarvis" label="Edward Jarvis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Charles Jarvis" label="Charles Jarvis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Unknown Jefferds" label="Unknown Jefferds">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Jenkins" label="John Jenkins">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Eben Johnston" label="Eben Johnston">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Gabriel Johonnott" label="Gabriel Johonnott">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Kent" label="Benjamin Kent">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Walter Kerr" label="Walter Kerr">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Kimball" label="Thomas Kimball">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="David Kinnison" label="David Kinnison">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Lambert" label="John Lambert">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Lee" label="Joseph Lee">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Phillip Lewis" label="Phillip Lewis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Amos Lincoln" label="Amos Lincoln">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Matthew Loring" label="Matthew Loring">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Lowell" label="John Lowell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Machin" label="Thomas Machin">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Mackay" label="William Mackay">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Capt MacKintosh" label="Capt MacKintosh">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Archibald MacNeil" label="Archibald MacNeil">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Phillip Marett" label="Phillip Marett">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Marlton" label="John Marlton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Marshall" label="Thomas Marshall">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Marson" label="John Marson">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jonathan Mason" label="Jonathan Mason">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Matchett" label="John Matchett">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John May" label="John May">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William McAlpine" label="William McAlpine">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Melville" label="Thomas Melville">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Merrit" label="John Merrit">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Milliken" label="Thomas Milliken">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Molineux" label="William Molineux">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Moody" label="Samuel Moody">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Moore" label="Thomas Moore">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Anthony Morse" label="Anthony Morse">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Perez Morton" label="Perez Morton">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Mountford" label="Joseph Mountford">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Eliphelet Newell" label="Eliphelet Newell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Unknown Nicholls" label="Unknown Nicholls">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nat Noyces" label="Nat Noyces">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Israel Obear" label="Israel Obear">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Otis" label="James Otis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Palfrey" label="William Palfrey">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Palmer" label="Joseph Palmer">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Richard Palms" label="Richard Palms">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jonathan Parker" label="Jonathan Parker">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Elias Parkman" label="Elias Parkman">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Sam Partridge" label="Sam Partridge">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Payson" label="Joseph Payson">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="IsaacJun Pearce" label="IsaacJun Pearce">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Isaac Pearce" label="Isaac Pearce">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Peck" label="Samuel Peck">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Peck" label="Thomas Peck">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Peters" label="John Peters">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Phillips" label="John Phillips">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Phillips" label="Samuel Phillips">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Phillips" label="William Phillips">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Pierce" label="William Pierce">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Robert Pierpont" label="Robert Pierpont">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Pitts" label="John Pitts">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Lendall Pitts" label="Lendall Pitts">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Pitts" label="Samuel Pitts">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Porter" label="Thomas Porter">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Potter" label="Edward Potter">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Powell" label="William Powell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Prentiss" label="Henry Prentiss">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Prince" label="John Prince">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Job Prince" label="Job Prince">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Edward Proctor" label="Edward Proctor">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Pulling" label="John Pulling">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Richard Pulling" label="Richard Pulling">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Purkitt" label="Henry Purkitt">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Josiah Quincy" label="Josiah Quincy">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Randall" label="John Randall">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Paul Revere" label="Paul Revere">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Roby" label="Joseph Roby">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Roylson" label="Thomas Roylson">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Abiel Ruddock" label="Abiel Ruddock">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Russell" label="John Russell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Russell" label="William Russell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Robert Sessions" label="Robert Sessions">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Seward" label="James Seward">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Gibbens Sharp" label="Gibbens Sharp">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Shed" label="Joseph Shed">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Sigourney" label="John Sigourney">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Simpson" label="Benjamin Simpson">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Peter Slater" label="Peter Slater">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Ambrose Sloper" label="Ambrose Sloper">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Smith" label="John Smith">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Spear" label="Thomas Spear">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Sprague" label="Samuel Sprague">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Spurr" label="John Spurr">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Stanbridge" label="Henry Stanbridge">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Starr" label="James Starr">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Phineas Stearns" label="Phineas Stearns">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Ebenezer Stevens" label="Ebenezer Stevens">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Asa Stoddard" label="Asa Stoddard">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jonathan Stoddard" label="Jonathan Stoddard">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Elisha Story" label="Elisha Story">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="James Swan" label="James Swan">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Sweetser" label="John Sweetser">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Eben Symmes" label="Eben Symmes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Symmes" label="John Symmes">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Philip Tabor" label="Philip Tabor">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Tileston" label="Thomas Tileston">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="George Trott" label="George Trott">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Royall Tyler" label="Royall Tyler">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Urann" label="Thomas Urann">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Fortesque Vernon" label="Fortesque Vernon">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Benjamin Waldo" label="Benjamin Waldo">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Warren" label="Joseph Warren">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joseph Webb" label="Joseph Webb">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Webster" label="Thomas Webster">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Henry Welles" label="Henry Welles">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Oliver Wendell" label="Oliver Wendell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Josiah Wheeler" label="Josiah Wheeler">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel White" label="Samuel White">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Whitten" label="John Whitten">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Samuel Whitwell" label="Samuel Whitwell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Whitwell" label="William Whitwell">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jeremiah Williams" label="Jeremiah Williams">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Jonathan Williams" label="Jonathan Williams">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Williams" label="Thomas Williams">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Nathaniel Willis" label="Nathaniel Willis">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="William Wingfield" label="William Wingfield">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Winslow" label="John Winslow">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="John Winthrop" label="John Winthrop">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Joshua Wyeth" label="Joshua Wyeth">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="Thomas Young" label="Thomas Young">
+				<attvalues>
+					<attvalue for="type" value="Revolutionary" />
+				</attvalues>
+			</node>
+			<node id="St Andrews Lodge" label="St Andrews Lodge">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="Loyal Nine" label="Loyal Nine">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="North Caucus" label="North Caucus">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="Long Room Club" label="Long Room Club">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="Tea Party" label="Tea Party">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="Boston Committee" label="Boston Committee">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<node id="London Enemies" label="London Enemies">
+				<attvalues>
+					<attvalue for="type" value="Group" />
+				</attvalues>
+			</node>
+			<edge source="John Adams" target="North Caucus">
+			</edge>
+			<edge source="John Adams" target="Long Room Club">
+			</edge>
+			<edge source="Samuel Adams" target="North Caucus">
+			</edge>
+			<edge source="Samuel Adams" target="Long Room Club">
+			</edge>
+			<edge source="Samuel Adams" target="Boston Committee">
+			</edge>
+			<edge source="Samuel Adams" target="London Enemies">
+			</edge>
+			<edge source="Dr Allen" target="North Caucus">
+			</edge>
+			<edge source="Nathaniel Appleton" target="North Caucus">
+			</edge>
+			<edge source="Nathaniel Appleton" target="Boston Committee">
+			</edge>
+			<edge source="Gilbert Ash" target="St Andrews Lodge">
+			</edge>
+			<edge source="Benjamin Austin" target="London Enemies">
+			</edge>
+			<edge source="Samuel Austin" target="London Enemies">
+			</edge>
+			<edge source="John Avery" target="Loyal Nine">
+			</edge>
+			<edge source="John Avery" target="London Enemies">
+			</edge>
+			<edge source="Cyrus Baldwin" target="London Enemies">
+			</edge>
+			<edge source="John Ballard" target="North Caucus">
+			</edge>
+			<edge source="Nathaniel Barber" target="North Caucus">
+			</edge>
+			<edge source="Nathaniel Barber" target="Tea Party">
+			</edge>
+			<edge source="Nathaniel Barber" target="Boston Committee">
+			</edge>
+			<edge source="Nathaniel Barber" target="London Enemies">
+			</edge>
+			<edge source="Samuel Barnard" target="Tea Party">
+			</edge>
+			<edge source="Samuel Barrett" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Barrett" target="London Enemies">
+			</edge>
+			<edge source="Henry Bass" target="Loyal Nine">
+			</edge>
+			<edge source="Henry Bass" target="North Caucus">
+			</edge>
+			<edge source="Henry Bass" target="Tea Party">
+			</edge>
+			<edge source="Henry Bass" target="London Enemies">
+			</edge>
+			<edge source="William Bell" target="St Andrews Lodge">
+			</edge>
+			<edge source="Increase Blake" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Boit" target="North Caucus">
+			</edge>
+			<edge source="Thomas Bolter" target="Tea Party">
+			</edge>
+			<edge source="Peter Boyer" target="London Enemies">
+			</edge>
+			<edge source="Richard Boynton" target="Boston Committee">
+			</edge>
+			<edge source="Richard Boynton" target="London Enemies">
+			</edge>
+			<edge source="Jos Brackett" target="London Enemies">
+			</edge>
+			<edge source="John Bradford" target="Boston Committee">
+			</edge>
+			<edge source="John Bradford" target="London Enemies">
+			</edge>
+			<edge source="David Bradlee" target="Tea Party">
+			</edge>
+			<edge source="Josiah Bradlee" target="Tea Party">
+			</edge>
+			<edge source="Nathaniel Bradlee" target="Tea Party">
+			</edge>
+			<edge source="Thomas Bradlee" target="Tea Party">
+			</edge>
+			<edge source="George Bray" target="St Andrews Lodge">
+			</edge>
+			<edge source="William Breck" target="North Caucus">
+			</edge>
+			<edge source="James Bewer" target="Tea Party">
+			</edge>
+			<edge source="Herman Brimmer" target="London Enemies">
+			</edge>
+			<edge source="Martin Brimmer" target="London Enemies">
+			</edge>
+			<edge source="Henry Broomfield" target="London Enemies">
+			</edge>
+			<edge source="Hugh Brown" target="St Andrews Lodge">
+			</edge>
+			<edge source="Enoch Brown" target="London Enemies">
+			</edge>
+			<edge source="John Brown" target="London Enemies">
+			</edge>
+			<edge source="Stephen Bruce" target="Tea Party">
+			</edge>
+			<edge source="Edward Burbeck" target="St Andrews Lodge">
+			</edge>
+			<edge source="William Burbeck" target="St Andrews Lodge">
+			</edge>
+			<edge source="Benjamin Burt" target="North Caucus">
+			</edge>
+			<edge source="Benjamin Burton" target="Tea Party">
+			</edge>
+			<edge source="Edward Cailleteau" target="St Andrews Lodge">
+			</edge>
+			<edge source="Elisha Callendar" target="St Andrews Lodge">
+			</edge>
+			<edge source="Nicholas Campbell" target="Tea Party">
+			</edge>
+			<edge source="Capt Cazneau" target="North Caucus">
+			</edge>
+			<edge source="Mr Chadwell" target="North Caucus">
+			</edge>
+			<edge source="Caleb Champney" target="North Caucus">
+			</edge>
+			<edge source="Thomas Chase" target="Loyal Nine">
+			</edge>
+			<edge source="Thomas Chase" target="North Caucus">
+			</edge>
+			<edge source="Thomas Chase" target="Tea Party">
+			</edge>
+			<edge source="Thomas Chase" target="London Enemies">
+			</edge>
+			<edge source="Ezekiel Cheever" target="North Caucus">
+			</edge>
+			<edge source="Ezekiel Cheever" target="London Enemies">
+			</edge>
+			<edge source="Seth Chipman" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Chrysty" target="North Caucus">
+			</edge>
+			<edge source="Benjamin Church" target="North Caucus">
+			</edge>
+			<edge source="Benjamin Church" target="Long Room Club">
+			</edge>
+			<edge source="Benjamin Clarke" target="North Caucus">
+			</edge>
+			<edge source="Benjamin Clarke" target="Long Room Club">
+			</edge>
+			<edge source="Benjamin Clarke" target="Boston Committee">
+			</edge>
+			<edge source="Benjamin Clarke" target="London Enemies">
+			</edge>
+			<edge source="Stephen Cleverly" target="North Caucus">
+			</edge>
+			<edge source="John Cochran" target="North Caucus">
+			</edge>
+			<edge source="John Cochran" target="Boston Committee">
+			</edge>
+			<edge source="Gilbert Colesworthy" target="St Andrews Lodge">
+			</edge>
+			<edge source="Gershom Collier" target="London Enemies">
+			</edge>
+			<edge source="Ezra Collins" target="London Enemies">
+			</edge>
+			<edge source="Adam Collson" target="Loyal Nine">
+			</edge>
+			<edge source="Adam Collson" target="London Enemies">
+			</edge>
+			<edge source="JamesFoster Condy" target="London Enemies">
+			</edge>
+			<edge source="Samuel Cooper" target="North Caucus">
+			</edge>
+			<edge source="William Cooper" target="North Caucus">
+			</edge>
+			<edge source="William Cooper" target="Tea Party">
+			</edge>
+			<edge source="William Cooper" target="Boston Committee">
+			</edge>
+			<edge source="William Cooper" target="London Enemies">
+			</edge>
+			<edge source="Thomas Crafts" target="Tea Party">
+			</edge>
+			<edge source="John Crane" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Crane" target="London Enemies">
+			</edge>
+			<edge source="Caleb Davis" target="Loyal Nine">
+			</edge>
+			<edge source="Caleb Davis" target="North Caucus">
+			</edge>
+			<edge source="Caleb Davis" target="Tea Party">
+			</edge>
+			<edge source="Caleb Davis" target="London Enemies">
+			</edge>
+			<edge source="Edward Davis" target="St Andrews Lodge">
+			</edge>
+			<edge source="Robert Davis" target="St Andrews Lodge">
+			</edge>
+			<edge source="William Davis" target="North Caucus">
+			</edge>
+			<edge source="Thomas Dawes" target="Tea Party">
+			</edge>
+			<edge source="William Dennie" target="London Enemies">
+			</edge>
+			<edge source="Moses Deshon" target="Boston Committee">
+			</edge>
+			<edge source="Moses Deshon" target="London Enemies">
+			</edge>
+			<edge source="Samuel Dexter" target="London Enemies">
+			</edge>
+			<edge source="Edward Dolbear" target="Boston Committee">
+			</edge>
+			<edge source="Edward Dolbear" target="London Enemies">
+			</edge>
+			<edge source="Peter Doyle" target="Tea Party">
+			</edge>
+			<edge source="Joseph Eaton" target="Tea Party">
+			</edge>
+			<edge source="Joseph Eayres" target="Tea Party">
+			</edge>
+			<edge source="Unknown Eckley" target="Tea Party">
+			</edge>
+			<edge source="Benjamin Edes" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Emmes" target="North Caucus">
+			</edge>
+			<edge source="William Etheridge" target="Tea Party">
+			</edge>
+			<edge source="Samuel Fenno" target="London Enemies">
+			</edge>
+			<edge source="Ambrose Ferrell" target="London Enemies">
+			</edge>
+			<edge source="Joseph Field" target="London Enemies">
+			</edge>
+			<edge source="Josiah Flagg" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Fleet" target="London Enemies">
+			</edge>
+			<edge source="Bos Foster" target="London Enemies">
+			</edge>
+			<edge source="Samuel Foster" target="Tea Party">
+			</edge>
+			<edge source="Nathaniel Frothingham" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Gammell" target="St Andrews Lodge">
+			</edge>
+			<edge source="Moses Gill" target="North Caucus">
+			</edge>
+			<edge source="Samuel Gore" target="Tea Party">
+			</edge>
+			<edge source="William Gould" target="St Andrews Lodge">
+			</edge>
+			<edge source="James Graham" target="St Andrews Lodge">
+			</edge>
+			<edge source="Moses Grant" target="Tea Party">
+			</edge>
+			<edge source="Wait Gray" target="North Caucus">
+			</edge>
+			<edge source="Nathaniel Greene" target="North Caucus">
+			</edge>
+			<edge source="Joseph Greenleaf" target="North Caucus">
+			</edge>
+			<edge source="William Greenleaf" target="Loyal Nine">
+			</edge>
+			<edge source="William Greenleaf" target="North Caucus">
+			</edge>
+			<edge source="William Greenleaf" target="Tea Party">
+			</edge>
+			<edge source="William Greenleaf" target="London Enemies">
+			</edge>
+			<edge source="Newn Greenough" target="North Caucus">
+			</edge>
+			<edge source="Newn Greenough" target="London Enemies">
+			</edge>
+			<edge source="William Ham" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Hammond" target="North Caucus">
+			</edge>
+			<edge source="Eben Hancock" target="North Caucus">
+			</edge>
+			<edge source="Eben Hancock" target="Long Room Club">
+			</edge>
+			<edge source="John Hancock" target="North Caucus">
+			</edge>
+			<edge source="John Hancock" target="Long Room Club">
+			</edge>
+			<edge source="John Hancock" target="Boston Committee">
+			</edge>
+			<edge source="John Hancock" target="London Enemies">
+			</edge>
+			<edge source="William Hendley" target="North Caucus">
+			</edge>
+			<edge source="George Hewes" target="North Caucus">
+			</edge>
+			<edge source="George Hewes" target="Boston Committee">
+			</edge>
+			<edge source="William Hickling" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Hicks" target="London Enemies">
+			</edge>
+			<edge source="Alexander Hill" target="London Enemies">
+			</edge>
+			<edge source="Nathaniel Hitchborn" target="Loyal Nine">
+			</edge>
+			<edge source="Nathaniel Hitchborn" target="London Enemies">
+			</edge>
+			<edge source="Thomas Hitchborn" target="London Enemies">
+			</edge>
+			<edge source="Samuel Hobbs" target="North Caucus">
+			</edge>
+			<edge source="John Hoffins" target="North Caucus">
+			</edge>
+			<edge source="John Hoffins" target="Tea Party">
+			</edge>
+			<edge source="John Hoffins" target="Boston Committee">
+			</edge>
+			<edge source="John Hoffins" target="London Enemies">
+			</edge>
+			<edge source="Nathaniel Holmes" target="Tea Party">
+			</edge>
+			<edge source="John Hooton" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Hooton" target="London Enemies">
+			</edge>
+			<edge source="Caleb Hopkins" target="Loyal Nine">
+			</edge>
+			<edge source="Caleb Hopkins" target="North Caucus">
+			</edge>
+			<edge source="Caleb Hopkins" target="Tea Party">
+			</edge>
+			<edge source="Caleb Hopkins" target="London Enemies">
+			</edge>
+			<edge source="William Hoskins" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Howard" target="St Andrews Lodge">
+			</edge>
+			<edge source="Edward Howe" target="North Caucus">
+			</edge>
+			<edge source="Jonathan Hunnewell" target="Tea Party">
+			</edge>
+			<edge source="Richard Hunnewell" target="London Enemies">
+			</edge>
+			<edge source="Thomas Hunstable" target="Boston Committee">
+			</edge>
+			<edge source="Thomas Hunstable" target="London Enemies">
+			</edge>
+			<edge source="Abraham Hunt" target="London Enemies">
+			</edge>
+			<edge source="Daniel Ingersoll" target="Boston Committee">
+			</edge>
+			<edge source="Daniel Ingersoll" target="London Enemies">
+			</edge>
+			<edge source="Alexander Inglish" target="Tea Party">
+			</edge>
+			<edge source="Pierce Isaac" target="Tea Party">
+			</edge>
+			<edge source="James Ivers" target="Tea Party">
+			</edge>
+			<edge source="Edward Jarvis" target="Tea Party">
+			</edge>
+			<edge source="Charles Jarvis" target="St Andrews Lodge">
+			</edge>
+			<edge source="Unknown Jefferds" target="North Caucus">
+			</edge>
+			<edge source="John Jenkins" target="Tea Party">
+			</edge>
+			<edge source="Eben Johnston" target="London Enemies">
+			</edge>
+			<edge source="Gabriel Johonnott" target="London Enemies">
+			</edge>
+			<edge source="Benjamin Kent" target="London Enemies">
+			</edge>
+			<edge source="Walter Kerr" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Kimball" target="London Enemies">
+			</edge>
+			<edge source="David Kinnison" target="London Enemies">
+			</edge>
+			<edge source="John Lambert" target="Tea Party">
+			</edge>
+			<edge source="Joseph Lee" target="St Andrews Lodge">
+			</edge>
+			<edge source="Phillip Lewis" target="St Andrews Lodge">
+			</edge>
+			<edge source="Amos Lincoln" target="North Caucus">
+			</edge>
+			<edge source="Matthew Loring" target="Tea Party">
+			</edge>
+			<edge source="John Lowell" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Machin" target="Tea Party">
+			</edge>
+			<edge source="William Mackay" target="Boston Committee">
+			</edge>
+			<edge source="Capt MacKintosh" target="Tea Party">
+			</edge>
+			<edge source="Archibald MacNeil" target="Tea Party">
+			</edge>
+			<edge source="Phillip Marett" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Marlton" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Marshall" target="London Enemies">
+			</edge>
+			<edge source="John Marson" target="London Enemies">
+			</edge>
+			<edge source="Jonathan Mason" target="London Enemies">
+			</edge>
+			<edge source="John Matchett" target="North Caucus">
+			</edge>
+			<edge source="John May" target="Tea Party">
+			</edge>
+			<edge source="William McAlpine" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Melville" target="Tea Party">
+			</edge>
+			<edge source="John Merrit" target="North Caucus">
+			</edge>
+			<edge source="Thomas Milliken" target="St Andrews Lodge">
+			</edge>
+			<edge source="William Molineux" target="North Caucus">
+			</edge>
+			<edge source="William Molineux" target="Tea Party">
+			</edge>
+			<edge source="William Molineux" target="Boston Committee">
+			</edge>
+			<edge source="Samuel Moody" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Moore" target="Tea Party">
+			</edge>
+			<edge source="Anthony Morse" target="Tea Party">
+			</edge>
+			<edge source="Perez Morton" target="North Caucus">
+			</edge>
+			<edge source="Joseph Mountford" target="Tea Party">
+			</edge>
+			<edge source="Eliphelet Newell" target="Tea Party">
+			</edge>
+			<edge source="Unknown Nicholls" target="St Andrews Lodge">
+			</edge>
+			<edge source="Nat Noyces" target="London Enemies">
+			</edge>
+			<edge source="Israel Obear" target="St Andrews Lodge">
+			</edge>
+			<edge source="James Otis" target="Long Room Club">
+			</edge>
+			<edge source="James Otis" target="Boston Committee">
+			</edge>
+			<edge source="William Palfrey" target="St Andrews Lodge">
+			</edge>
+			<edge source="Joseph Palmer" target="Tea Party">
+			</edge>
+			<edge source="Richard Palms" target="North Caucus">
+			</edge>
+			<edge source="Jonathan Parker" target="Tea Party">
+			</edge>
+			<edge source="Elias Parkman" target="North Caucus">
+			</edge>
+			<edge source="Elias Parkman" target="London Enemies">
+			</edge>
+			<edge source="Sam Partridge" target="London Enemies">
+			</edge>
+			<edge source="Joseph Payson" target="Tea Party">
+			</edge>
+			<edge source="IsaacJun Pearce" target="North Caucus">
+			</edge>
+			<edge source="Isaac Pearce" target="North Caucus">
+			</edge>
+			<edge source="Samuel Peck" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Peck" target="Tea Party">
+			</edge>
+			<edge source="Thomas Peck" target="North Caucus">
+			</edge>
+			<edge source="John Peters" target="Tea Party">
+			</edge>
+			<edge source="John Phillips" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Phillips" target="Long Room Club">
+			</edge>
+			<edge source="William Phillips" target="London Enemies">
+			</edge>
+			<edge source="William Pierce" target="Tea Party">
+			</edge>
+			<edge source="Robert Pierpont" target="Boston Committee">
+			</edge>
+			<edge source="John Pitts" target="London Enemies">
+			</edge>
+			<edge source="Lendall Pitts" target="Tea Party">
+			</edge>
+			<edge source="Samuel Pitts" target="London Enemies">
+			</edge>
+			<edge source="Thomas Porter" target="Tea Party">
+			</edge>
+			<edge source="Edward Potter" target="St Andrews Lodge">
+			</edge>
+			<edge source="William Powell" target="Boston Committee">
+			</edge>
+			<edge source="William Powell" target="London Enemies">
+			</edge>
+			<edge source="Henry Prentiss" target="Tea Party">
+			</edge>
+			<edge source="John Prince" target="Tea Party">
+			</edge>
+			<edge source="Job Prince" target="London Enemies">
+			</edge>
+			<edge source="Edward Proctor" target="North Caucus">
+			</edge>
+			<edge source="Edward Proctor" target="Tea Party">
+			</edge>
+			<edge source="Edward Proctor" target="London Enemies">
+			</edge>
+			<edge source="John Pulling" target="North Caucus">
+			</edge>
+			<edge source="John Pulling" target="London Enemies">
+			</edge>
+			<edge source="Richard Pulling" target="St Andrews Lodge">
+			</edge>
+			<edge source="Henry Purkitt" target="Tea Party">
+			</edge>
+			<edge source="Josiah Quincy" target="Long Room Club">
+			</edge>
+			<edge source="Josiah Quincy" target="Boston Committee">
+			</edge>
+			<edge source="John Randall" target="Tea Party">
+			</edge>
+			<edge source="Paul Revere" target="St Andrews Lodge">
+			</edge>
+			<edge source="Paul Revere" target="North Caucus">
+			</edge>
+			<edge source="Paul Revere" target="Long Room Club">
+			</edge>
+			<edge source="Paul Revere" target="Tea Party">
+			</edge>
+			<edge source="Paul Revere" target="London Enemies">
+			</edge>
+			<edge source="Joseph Roby" target="Tea Party">
+			</edge>
+			<edge source="Thomas Roylson" target="London Enemies">
+			</edge>
+			<edge source="Abiel Ruddock" target="North Caucus">
+			</edge>
+			<edge source="Abiel Ruddock" target="London Enemies">
+			</edge>
+			<edge source="John Russell" target="Tea Party">
+			</edge>
+			<edge source="William Russell" target="Tea Party">
+			</edge>
+			<edge source="Robert Sessions" target="Tea Party">
+			</edge>
+			<edge source="James Seward" target="St Andrews Lodge">
+			</edge>
+			<edge source="Gibbens Sharp" target="North Caucus">
+			</edge>
+			<edge source="Joseph Shed" target="Tea Party">
+			</edge>
+			<edge source="John Sigourney" target="North Caucus">
+			</edge>
+			<edge source="Benjamin Simpson" target="Tea Party">
+			</edge>
+			<edge source="Peter Slater" target="Tea Party">
+			</edge>
+			<edge source="Ambrose Sloper" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Smith" target="Loyal Nine">
+			</edge>
+			<edge source="Thomas Spear" target="Tea Party">
+			</edge>
+			<edge source="Samuel Sprague" target="Tea Party">
+			</edge>
+			<edge source="John Spurr" target="Tea Party">
+			</edge>
+			<edge source="Henry Stanbridge" target="St Andrews Lodge">
+			</edge>
+			<edge source="James Starr" target="Tea Party">
+			</edge>
+			<edge source="Phineas Stearns" target="Tea Party">
+			</edge>
+			<edge source="Ebenezer Stevens" target="Tea Party">
+			</edge>
+			<edge source="Asa Stoddard" target="North Caucus">
+			</edge>
+			<edge source="Jonathan Stoddard" target="North Caucus">
+			</edge>
+			<edge source="Elisha Story" target="North Caucus">
+			</edge>
+			<edge source="Elisha Story" target="Tea Party">
+			</edge>
+			<edge source="James Swan" target="North Caucus">
+			</edge>
+			<edge source="James Swan" target="Tea Party">
+			</edge>
+			<edge source="John Sweetser" target="Boston Committee">
+			</edge>
+			<edge source="Eben Symmes" target="North Caucus">
+			</edge>
+			<edge source="John Symmes" target="North Caucus">
+			</edge>
+			<edge source="Philip Tabor" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Tileston" target="North Caucus">
+			</edge>
+			<edge source="George Trott" target="Loyal Nine">
+			</edge>
+			<edge source="Royall Tyler" target="Long Room Club">
+			</edge>
+			<edge source="Thomas Urann" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Urann" target="North Caucus">
+			</edge>
+			<edge source="Thomas Urann" target="Tea Party">
+			</edge>
+			<edge source="Fortesque Vernon" target="London Enemies">
+			</edge>
+			<edge source="Benjamin Waldo" target="London Enemies">
+			</edge>
+			<edge source="Joseph Warren" target="St Andrews Lodge">
+			</edge>
+			<edge source="Joseph Warren" target="North Caucus">
+			</edge>
+			<edge source="Joseph Warren" target="Long Room Club">
+			</edge>
+			<edge source="Joseph Warren" target="London Enemies">
+			</edge>
+			<edge source="Joseph Webb" target="St Andrews Lodge">
+			</edge>
+			<edge source="Thomas Webster" target="St Andrews Lodge">
+			</edge>
+			<edge source="Henry Welles" target="St Andrews Lodge">
+			</edge>
+			<edge source="Henry Welles" target="Loyal Nine">
+			</edge>
+			<edge source="Oliver Wendell" target="Boston Committee">
+			</edge>
+			<edge source="Oliver Wendell" target="London Enemies">
+			</edge>
+			<edge source="Josiah Wheeler" target="Tea Party">
+			</edge>
+			<edge source="Samuel White" target="North Caucus">
+			</edge>
+			<edge source="John Whitten" target="St Andrews Lodge">
+			</edge>
+			<edge source="Samuel Whitwell" target="London Enemies">
+			</edge>
+			<edge source="William Whitwell" target="London Enemies">
+			</edge>
+			<edge source="Jeremiah Williams" target="Tea Party">
+			</edge>
+			<edge source="Jonathan Williams" target="London Enemies">
+			</edge>
+			<edge source="Thomas Williams" target="Tea Party">
+			</edge>
+			<edge source="Nathaniel Willis" target="Tea Party">
+			</edge>
+			<edge source="William Wingfield" target="St Andrews Lodge">
+			</edge>
+			<edge source="John Winslow" target="Long Room Club">
+			</edge>
+			<edge source="John Winthrop" target="North Caucus">
+			</edge>
+			<edge source="John Winthrop" target="London Enemies">
+			</edge>
+			<edge source="Joshua Wyeth" target="Tea Party">
+			</edge>
+			<edge source="Thomas Young" target="North Caucus">
+			</edge>
+			<edge source="Thomas Young" target="Tea Party">
+			</edge>
+			<edge source="Thomas Young" target="Boston Committee">
+			</edge>
+	</graph>
+</gexf>
