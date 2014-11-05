@@ -7,3 +7,7 @@ Included in this package are two different examples of how to import CSV files i
 # Exporting
 
 I forgot to note the purpose of the "Preview" tab on the top. After you have a layout that you're happy with, the Preview tab is where you setup your final view of the graph. This view brings up two panels, the "Preview Settings" and "Preview" panels. In the "Preview Settings" tab, select the "Default Curved" option as a starting point, and edit the options below to tweak your layout and figure out the options that you'll have. Any manipulation of the graph requires that you click the "Refresh" button at least once (sometimes twice) in order to view the final layout. If you fail to click the "Refresh" button before exporting images (eg SVG/PDF/PNG), you'll only get an empty graph.
+
+## Contact
+
+If you have any other questions about Gephi, please contact any of the Northeastern NULab fellows, or Devin Gaffney directly at [itsme@devingaffney.com](itsme@devingaffney.com)
