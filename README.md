@@ -10,4 +10,4 @@ I forgot to note the purpose of the "Preview" tab on the top. After you have a l
 
 ## Contact
 
-If you have any other questions about Gephi, please contact any of the Northeastern NULab fellows, or Devin Gaffney directly at [itsme@devingaffney.com](itsme@devingaffney.com)
+If you have any other questions about Gephi, please contact any of the Northeastern NULab fellows, or Devin Gaffney directly at [itsme@devingaffney.com](itsme@devingaffney.com).
